@@ -1,7 +1,5 @@
 # Hey, I'm Shradha! 
 
-I'm an undergrad student studying **Electrical Engineering at IIT Roorkee, India**. 
-
 ```python
 class ShradhaThakur:
     def __init__(self):
