@@ -5,4 +5,4 @@ class ShradhaThakur:
     def __init__(self):
         self.location = "IIT Roorkee"
         self.major = "Electrical Engineering"
-        self.survival_strategy = "Run with the crossiant"
+        self.current_mood = "Run with the crossiant"
